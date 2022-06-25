@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zack Han
-- 👀 I’m interested in web development (Full Stack / Java Backend) and web GIS
-- 🌱 I’m currently using MERN stack and JavaEE Springboot development to develop web page.
+- 👀 I’m interested in web development (Full Stack / Java Backend).
+- 🌱 I’m currently a software development engineer in Tingono.
 - 📫 How to reach me:
        email: xiaweiliang94@gmail.com
        phone: (+1) 213 800 6894
